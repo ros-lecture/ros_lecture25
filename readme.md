@@ -1,1 +1,1 @@
-ros_実習
+ros_lecture
